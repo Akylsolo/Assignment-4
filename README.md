@@ -47,3 +47,34 @@ update
 delete
 
 All database operations use PreparedStatement.
+
+Database
+
+Tables used:
+
+customer
+
+menu_item
+
+order_table
+
+order_item
+
+Relations:
+
+Orders belong to customers
+
+Orders contain menu items
+
+UML Diagram
+
+The UML diagram shows inheritance, composition, and project structure.
+(See restaurant_uml.png)
+
+Reflection
+
+Learned how to use OOP and JDBC together
+
+Improved understanding of layered architecture
+
+Learned to work with PostgreSQL from Java

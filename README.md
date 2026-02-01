@@ -69,7 +69,7 @@ Orders contain menu items
 UML Diagram
 
 The UML diagram shows inheritance, composition, and project structure.
-(See restaurant_uml.png)
+(uml.png)
 
 Reflection
 
